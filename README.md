@@ -7,4 +7,4 @@ For more information about the model development procedure and the nature of the
 
 Link: http://doi.org/xxxx/xxxxxxxx/    (will be provided soon)
 
-To run the model, download the "RF-GUI.rar" file from the "Releases" section, extract all materials, and click on "main.exe". 
+To run the model, download the "RF-GUI.zip" file from the "Releases" section, extract all materials, and click on "main.exe". 
